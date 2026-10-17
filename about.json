@@ -6,7 +6,7 @@
   "license_url": null,
   "learn_more": null,
   "theme_version": "0.0.1",
-  "minimum_discourse_version": "2026.10.0-latest",
+  "minimum_discourse_version": "2026.1.0",
   "maximum_discourse_version": null,
   "assets": {},
   "modifiers": {}
